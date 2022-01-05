@@ -1,19 +1,44 @@
-<h1 align="center">Hi 👋, It's Dennis Han</h1>
-<h3 align="center">A sincere and reliable Blockchain & Front-End developer</h3>
+# Thanks for visiting my Git! 👋
+<a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a>
 
-- 🔭 I currently worked for [Zero-Exchange](https://relaychain.com)
+---
+ 
+## 🤗 Welcome
 
-- 🌱 I’m currently learning **how to make people satisfied with my work.**
+![Dennis Han's github stats](https://github-readme-stats.vercel.app/api?username=kritical0613&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true)
+![Dennis Han's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritical0613&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&show_icons=true)
 
-- 👯 I’m looking to collaborate on **Blockchain & Front-End projects**
+### 🙋‍♂️ About Me
 
-- 🤝 I’m looking for help with **Startup or Fast-growing tech groups.**
+As a sincere and reliable software engineer, a passionate learner and an aspiring content creator who is familiar with Blockchain technology and has full-stack development experiences of more than 5 years, I obtained essential skills for web application development for further work of various aspects.<br>
+The strength of me is that I am **always sensitive** to modern technologies and **open to new** things. The past work shows that I understand and embody the needs of customers and be creative on their own.<br>
+I think It is my greatest pleasure to **build and maintain trusts** with all my customers.<br>
+I am glad to say that I aim to be the **perfect customer-oriented developer**.
 
-- 💬 Ask me about **javascript, react, solidity.**
+[https://www.smartr.me/public/profiles/dennis.han](https://www.smartr.me/public/profiles/dennis.han)
 
-- 📫 How to reach me 👉 **kritical0613@gmail.com**
+### 🍯 Technical Stack
 
-- 📄 Know about my experiences [https://www.smartr.me/public/profiles/dennis.han](https://www.smartr.me/public/profiles/dennis.han)
+- 💰 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js 𒑰 Ethers.js
+- ⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 C++ 𒑰 C# 𒑰 Tailwind CSS
+- 🥇 React 𒑰 Material UI 𒑰 Ant Design 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Figma 𒑰 Adob XD 𒑰 Adobe Photoshop
+- 🎒 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django 𒑰 Java Spring Boot
+- 🏹 Chrome extension with React & Redux
+- 🌎 AWS 𒑰 Firebase 𒑰 MongoDB 𒑰 MariaDB 𒑰 Git 𒑰 Slack 𒑰 Jira
+- 🚩 Docker 𒑰 Jenkins 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 Test-Driven Development(TDD)
+
+### 🚧 Current Projects
+- 🤑 Multi-DEX & Payment Integration
+- 🔗 Third Party API Integration
+- 🎨 React 𒑰 Material UI 𒑰 Fuse React 𒑰 Semantic UI 𒑰 Styled Component 𒑰 Next 𒑰 Gatsby
+- 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
+
+### 🌱 What I'm boosting
+- 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
+- 🎩 DevOps
+
+`Reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between!`
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
