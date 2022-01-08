@@ -5,8 +5,8 @@
  
 ## 🤗 Welcome
 
-![kritical0613's github stats](https://github-readme-stats.vercel.app/api?username=kritical0613&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true)
-![kritical0613's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritical0613&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&show_icons=true)
+![kritical0613's stats](https://github-readme-stats.vercel.app/api?username=kritical0613&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true)
+![kritical0613's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritical0613&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&show_icons=true)
 
 ### 🙋‍♂️ About Me
 
