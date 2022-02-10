@@ -1,4 +1,4 @@
-# Thanks for visiting my Git! https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+# Thanks for visiting my Git! <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' />
 <a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a>
 
 ---
