@@ -7,9 +7,8 @@
 
 <p align=center>
 <div align=center>
-<img align="left" width=365 src="https://github-readme-stats.vercel.app/api?username=kritical0613&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
-<img align="left" width=315 src="https://github-readme-streak-stats.herokuapp.com/?user=kritical0613&theme=onedark" />
-<img align="left" width=265 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritical0613&theme=onedark&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&show_icons=true" />
+<img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=kritical0613&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
+<img align=right width=370 src="https://github-readme-streak-stats.herokuapp.com/?user=kritical0613&theme=onedark" />
 <br>
 <br>
 <br>
