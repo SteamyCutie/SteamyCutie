@@ -5,9 +5,9 @@
  
 ## 🤗 Welcome
 
-![kritical0613's stats](https://github-readme-stats.vercel.app/api?username=kritical0613&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true)
-![kritical0613's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritical0613&theme=onedark&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kritical0613&theme=onedark)](https://git.io/streak-stats)
+<img align="left" width=396 href="https://github-readme-stats.vercel.app/api?username=kritical0613&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
+<img align="right" width=396 href="https://github-readme-stats.vercel.app/api/top-langs/?username=kritical0613&theme=onedark&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&show_icons=true" />
+[![kritical0613's streak](https://github-readme-streak-stats.herokuapp.com/?user=kritical0613&theme=onedark)](https://git.io/streak-stats)
 
 ### 🙋‍♂️ About Me
 
