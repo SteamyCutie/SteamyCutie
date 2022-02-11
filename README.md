@@ -1,5 +1,5 @@
 # Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
-<a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/kritical0613/count.svg" /></a>
+<a target="blank" href="https://profile-counter.glitch.me/kritical0613/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/kritical0613/count.svg" /></a>
 
 ---
  
@@ -7,8 +7,8 @@
 
 <p align=center>
 <div align=center>
-<img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=kritical0613&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
-<img align=right width=370 src="https://github-readme-streak-stats.herokuapp.com/?user=kritical0613&theme=onedark" />
+<img align=left width=415 src="https://github-readme-stats.vercel.app/api?username=kritical0613&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
+<img align=right width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=kritical0613&theme=onedark" />
 <br>
 <br>
 <br>
