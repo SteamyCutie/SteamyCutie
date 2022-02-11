@@ -5,11 +5,21 @@
  
 ## 🤗 Welcome
 
-<img align="left" width=396 href="https://github-readme-stats.vercel.app/api?username=kritical0613&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
-<img align="right" width=396 href="https://github-readme-stats.vercel.app/api/top-langs/?username=kritical0613&theme=onedark&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&show_icons=true" />
-[![kritical0613's streak](https://github-readme-streak-stats.herokuapp.com/?user=kritical0613&theme=onedark)](https://git.io/streak-stats)
+<p align=center>
+<div align=center>
+<img align="left" width=365 src="https://github-readme-stats.vercel.app/api?username=kritical0613&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
+<img align="left" width=315 src="https://github-readme-streak-stats.herokuapp.com/?user=kritical0613&theme=onedark" />
+<img align="left" width=265 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritical0613&theme=onedark&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&show_icons=true" />
+<br>
+<br>
+<br>
+</div>
+</p>
 
-### 🙋‍♂️ About Me
+<br><br><br>
+--
+
+## 🙋‍♂️ About Me
 
 As a sincere and reliable software engineer, a passionate learner and an aspiring content creator who is familiar with Blockchain technology and has full-stack development experiences of more than 5 years, I obtained essential skills for web application development for further work of various aspects.<br>
 The strength of me is that I am **always sensitive** to modern technologies and **open to new** things. The past work shows that I understand and embody the needs of customers and be creative on their own.<br>
