@@ -50,7 +50,6 @@
 - 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
 - 🎩 DevOps
 
-`Reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between!`
 
 
 <!-- <h3 align="left">🛎 Connect with me:</h3>
