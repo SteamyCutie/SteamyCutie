@@ -7,7 +7,7 @@
 
 <p align=center>
 <div align=center>
-<img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=kritical0613&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
+<img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=kritical0613&hide=prs&include_all_commits=true&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
 <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=kritical0613&theme=onedark" />
 <br>
 <br>
