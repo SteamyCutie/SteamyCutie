@@ -1,21 +1,6 @@
-# Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">
+<!-- # Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">
 <a target="blank" href="https://profile-counter.glitch.me/ricvale0128/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/ricvale0128/count.svg" /></a>
-
----
- 
-## 🤗 Welcome
-
-<p align=center>
-<div align=center>
-<img align=right width=420 src="https://github-readme-stats.vercel.app/api?username=ricvale0128&hide=prs&include_all_commits=true&theme=onedark&layout=compact&show_icons=true" />
-<img align=left width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=ricvale0128&theme=onedark" />
-<br>
-<br>
-<br>
-</div>
-</p>
-
-<br><br><br>
+-->
 
 
 ## 🙋‍♂️ About Me
@@ -29,6 +14,25 @@
 &nbsp;&nbsp;I am glad to say that I aim to be the <strong>Perfect Client-Oriented Developer</strong>.
 
 </p>
+
+<br>
+
+<!-- ## 🤗 Welcome -->
+
+### 🤗 Contribution
+
+<p align=center>
+<div align=center>
+<img align=right width=420 src="https://github-readme-stats.vercel.app/api?username=ricvale0128&hide=prs&include_all_commits=true&theme=onedark&layout=compact&show_icons=true" />
+<img align=left width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=ricvale0128&theme=onedark" />
+<br>
+<br>
+<br>
+</div>
+</p>
+
+<br><br><br>
+
 
 ### 🍯 Technical Stack
 
