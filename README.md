@@ -1,5 +1,5 @@
 # Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">
-<a target="blank" href="https://profile-counter.glitch.me/kritical0613/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/kritical0613/count.svg" /></a>
+<a target="blank" href="https://profile-counter.glitch.me/ricvale0128/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/ricvale0128/count.svg" /></a>
 
 ---
  
@@ -7,8 +7,8 @@
 
 <p align=center>
 <div align=center>
-<img align=right width=420 src="https://github-readme-stats.vercel.app/api?username=kritical0613&hide=prs&include_all_commits=true&theme=onedark&layout=compact&show_icons=true" />
-<img align=left width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=kritical0613&theme=onedark" />
+<img align=right width=420 src="https://github-readme-stats.vercel.app/api?username=ricvale0128&hide=prs&include_all_commits=true&theme=onedark&layout=compact&show_icons=true" />
+<img align=left width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=ricvale0128&theme=onedark" />
 <br>
 <br>
 <br>
@@ -54,11 +54,11 @@
 
 <!-- <h3 align="left">🛎 Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/kritical0613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kritical0613" height="30" width="40" /></a>
-<a href="https://dev.to/kritical0613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kritical0613" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/kritical0613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/kritical0613" height="30" width="40" /></a>
+<a href="https://codepen.io/ricvale0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ricvale0128" height="30" width="40" /></a>
+<a href="https://dev.to/ricvale0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ricvale0128" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/ricvale0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ricvale0128" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17471364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17471364" height="30" width="40" /></a>
-<a href="https://codesandbox.com/kritical0613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kritical0613" height="30" width="40" /></a>
+<a href="https://codesandbox.com/ricvale0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ricvale0128" height="30" width="40" /></a>
 </p> -->
 
 <h3 align="left">🏷 Languages and Tools:</h3>
