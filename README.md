@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 <p>
-<img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Java%20Backend%20Developer;8+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
+<img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Java%20Backend%20Developer;10+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
 &nbsp;&nbsp;Qualified Software Engineer with <strong>10+</strong> years of hands-on experience with main emphasis on <strong>backend development</strong> using <strong>Java</strong>, <strong>Spring</strong> and <strong>Spring Boot</strong> framework with <strong>Microservice architectures</strong>. Participated in leading teams, development of services, components, modules, staff training, writing tests, support and maintenance of existing codebase.<br>
 &nbsp;&nbsp;The strength of me is that I am <strong>Always Sensitive</strong> to modern technologies and <strong>Open to New</strong> things. The past work shows that I understand and embody the needs of customers and be creative on their own.<br>
 &nbsp;&nbsp;I am glad to say that I aim to be the <strong>Perfect Client-Oriented Developer</strong>.
