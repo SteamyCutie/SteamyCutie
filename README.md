@@ -33,12 +33,12 @@
 
 
 ### 🍯 Technical Stack
-- ☕ Java 𒑰 Spring Boot 𒑰 Spring 𒑰 Spring MVC 𒑰 Microservices 𒑰 Java Beans 𒑰 RESTful Web Services 𒑰 SOAP
-- 📚 Hibernate 𒑰 MySQL 𒑰 MariaDB 𒑰 Postgres 𒑰 MongoDB 𒑰 DynamoDB
-- 🎒 Swagger API 𒑰 Zuul 𒑰 Eureka 𒑰 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django
 - ⚡ JavaScript 𒑰 Typescript 𒑰 Node.js 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 C++ 𒑰 C#
 - 🥇 Angular 𒑰 Angular Material 𒑰 React 𒑰 Material UI 𒑰 Ant Design
 - 🏹 Chrome extension with React & Redux
+- ☕ Java 𒑰 Spring Boot 𒑰 Spring 𒑰 Spring MVC 𒑰 Microservices 𒑰 Java Beans 𒑰 RESTful Web Services 𒑰 SOAP
+- 📚 Hibernate 𒑰 MySQL 𒑰 MariaDB 𒑰 Postgres 𒑰 MongoDB 𒑰 DynamoDB
+- 🎒 Swagger API 𒑰 Zuul 𒑰 Eureka 𒑰 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django
 - 🌎 Google Cloud Platform(GCP) 𒑰 Kubernetes(K8s) 𒑰 AWS S3 𒑰 EC2 𒑰 Firebase
 - 📣 Github 𒑰 GitLab 𒑰 BitBucket 𒑰 Subversions 𒑰 Trello 𒑰 Slack 𒑰 Jira 𒑰 Confluence
 - 🚩 Docker 𒑰 Jenkins 𒑰 JUnit 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 SCRUM 𒑰 Agile Methodologies 𒑰 Test-Driven Development(TDD)
